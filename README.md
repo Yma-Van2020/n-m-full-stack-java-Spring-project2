@@ -1,6 +1,6 @@
 # n:m-Spring-boot-project-with-Spring-security
 
-- Created to convinently manage projects
+- Created to conviniently manage projects
 - Full-stack many-to-many project using Java8, JSP, Tomcat, MySQL, OOP, Bcrypt, Bootstrap, JPA, JUnit, JVM
 - Deployed using AWS EC2
 - Finished in 3 days
