@@ -1,7 +1,6 @@
 # Project Management App
 
-- Created to conviniently manage projects
-- Full-stack many-to-many project using Java8, JSP, Tomcat, MySQL, OOP, Bcrypt, Bootstrap, JPA, JUnit, JVM
+This app is created to conviniently manage projects. Many-to-many relationships has been built using Java Spring Tool Suite 4 and MySQL. User password has been encrypted with Bcrypt and hashed for security reasons. Validationsa are used for all forms. Top table includes all the projects the logged in user is not a part of. Bottom table includes all the projects the user is involved in. User is only able to edit projects for which they are the team lead. The full CRUD functionallity is available for the user.
 - Deployed using AWS EC2
 - Finished in 3 days
 
