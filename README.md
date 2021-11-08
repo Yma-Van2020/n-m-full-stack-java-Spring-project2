@@ -1,4 +1,4 @@
-# n:m-Spring-boot-project-with-Spring-security
+# Project Management App
 
 - Created to conviniently manage projects
 - Full-stack many-to-many project using Java8, JSP, Tomcat, MySQL, OOP, Bcrypt, Bootstrap, JPA, JUnit, JVM
